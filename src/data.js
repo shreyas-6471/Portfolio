@@ -27,7 +27,7 @@ export const projects = [
     title:"FinTech Loan Forecaster",
     subtitle:"React Node based Web App",
     description:"Led the development of an AI-driven loan prediction application, ensuring accuracy through rigorous QA practices and enhancing system security. Key contributions included implementing robust security protocols within the service-oriented architecture, significantly elevating web service protection and system reliability.",
-    image:"./loan.png",
+    image:"https://editor.analyticsvidhya.com/uploads/82280pexels-photo-4386366.jpeg",
     link:"http://ec2-18-223-43-250.us-east-2.compute.amazonaws.com:8001/"
   }
 ];
